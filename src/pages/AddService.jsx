@@ -123,7 +123,7 @@ const AddService = () => {
               value={description}
               onChange={(e) => setDescription(e.target.value)}
               className={`mt-1 w-full border rounded-lg p-2 ${inputClass}`}
-              placeholder="Enter service description"
+              placeholder=" service description"
               rows="4"
               required
             ></textarea>

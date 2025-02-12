@@ -80,7 +80,7 @@ const AddService = () => {
               value={imageUrl}
               onChange={(e) => setImageUrl(e.target.value)}
               className={`mt-1 w-full border rounded-lg p-2 ${inputClass}`}
-              placeholder="Enter image URL"
+              placeholder="image URL"
               required
             />
           </div>

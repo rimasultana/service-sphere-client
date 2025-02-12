@@ -91,7 +91,7 @@ const AddService = () => {
               value={serviceName}
               onChange={(e) => setServiceName(e.target.value)}
               className={`mt-1 w-full border rounded-lg p-2 ${inputClass}`}
-              placeholder="Enter service name"
+              placeholder="service name"
               required
             />
           </div>

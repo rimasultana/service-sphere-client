@@ -198,7 +198,7 @@ const Services = () => {
                 We couldn&#39;t find any services matching your search criteria.
               </p>
               <p className="text-gray-500 dark:text-gray-500">
-                your search terms or browse all services.
+              Try adjusting  your search terms or browse all services.
               </p>
             </div>
           </motion.div>
